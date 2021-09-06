@@ -5,6 +5,14 @@
   "author": "Jin Shi Si Chai",
   "cover": "https://imgur.com/prQSVnt.png",
   "chapters": {
+  "66": {
+      "title": "الطريقة الوحيدة",
+      "volume": "2",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/1GHEPmE/"
+      },
+      "last_updated": "1630921170"
+    },
   "65": {
       "title": "ثلاث قواعد يجب أن تطبقها",
       "volume": "2",
